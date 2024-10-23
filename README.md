@@ -3,11 +3,9 @@ I'm a 21-year-old computer science student with a passion for exploring differen
 
 Recently, I'm diving deep into Kotlin and focusing on the Android ecosystem. In my free time, I work on enhancing my skills in Machine Learning, aiming to merge the two worlds of mobile development and AI.
 
-🌅 I'm aspiring to become Native Mobile Developer
+🌅 I'm aspiring to become Cross-platform Mobile Developer and Backend Developer
 
-🔭 I’m currently working on personal social project
-
-🌱 I’m currently learning Firebase services
+🔭 I’m currently working on MapMates
 
 📫 You can reach me on Linkedin - Kacper Pełka
 
