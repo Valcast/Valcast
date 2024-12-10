@@ -5,9 +5,7 @@ I'm diving deep into Kotlin and focusing on the Android ecosystem. In my free ti
 
 🌅 I'm aspiring to become Cross-platform Mobile Developer and Backend Developer
 
-🔭 I’m currently working on MapMates
-
 📫 You can reach me on Linkedin - Kacper Pełka
 
-🧑‍💼 Currently working part-time in Unilever, but I'm open to full-time job offers
+🧑‍💼 Looking for full-time job offers
 
